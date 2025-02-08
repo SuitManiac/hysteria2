@@ -14,7 +14,6 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 https://gist.githubusercontent.com/SuitManiac/f1e118e68e6d50e2be0ea2d319aca161/raw/Hysteria2
-https://gist.githubusercontent.com/SuitManiac/f1e118e68e6d50e2be0ea2d319aca161/raw/666
 `
 
 let urls = [];
